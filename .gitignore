@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
-dev/scripts/main.js
 dev/styles/style.scss
 dev/partials/_setup.scss
 dev/partials/_typography.scss
